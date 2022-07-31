@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Email->keshabpradhan19@gmail.com
-LinkedIn->keshab-pradhan-a92954222/
-https://twitter.com/Keshab90116983
+
 
 <!---
 Kesaab/Kesaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

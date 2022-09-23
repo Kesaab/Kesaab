@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kesaab
 - 👀 I’m interested in ...softwere engineering
-- 🌱 I’m currently learning ...Mysql 
+- 🌱 I’m currently learning ...Mysql and GitHub
 - 💞️ I’m looking to collaborate on ...creating databases and its assecibily
 - 📫 How to reach me ...
 - Email->keshabpradhan19@gmail.com
